@@ -141,7 +141,7 @@ RoomBoom/
 
 ---
 
-## 🎯 Key Features Explained
+## Key Features Explained
 
 ### Image Upload
 Users can upload multiple images when creating spots or listings. Images are stored locally in the `backend/uploads` folder and served statically.
@@ -185,10 +185,7 @@ This project is open source and available under the MIT License.
 **pEEk-rec**  
 GitHub: [@pEEk-rec](https://github.com/pEEk-rec)
 
----
 
 - Built with ❤️
-
----
 
 **Happy Exploring! 🎉**
