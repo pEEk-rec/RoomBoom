@@ -28,17 +28,17 @@
 
 ## Screenshots
 
-### Discovery Mode
-![Discovery Page](screenshots/discovery.png)
+### Dual Mode Interface
+![Dual Mode](Screenshots/dual_mode.png)
+*Choose between Local Discovery and Residential Rentals*
+
+### Local Discovery
+![Local Discovery](Screenshots/local_mode.png)
 *Explore local spots with beautiful card layouts*
 
-### Rentals Mode
-![Rentals Page](screenshots/rentals.png)
+### Rental Listings
+![Rental Mode](Screenshots/rental_mode.png)
 *Browse residential properties with detailed information*
-
-### Interactive Map
-![Map View](screenshots/map.png)
-*View all spots on an interactive map*
 
 ---
 
